@@ -1,0 +1,53 @@
+﻿@model IEnumerable<CInemaManager_JihedBenZarb.Models.Cinema.Movie>
+
+@{
+    ViewData["Title"] = "SearchBy2";
+}
+
+<h1>SearchBy2</h1>
+@using (Html.BeginForm())
+{
+    <p>
+        Genre: @Html.DropDownList("genre","All")
+        Title: @Html.TextBox("title")
+        <input type="submit" value="Find" />
+    </p>
+}
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Producer)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Genre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Producer.Id)
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

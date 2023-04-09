@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CInemaManager-JihedBenZarb", "CInemaManager-JihedBenZarb\CInemaManager-JihedBenZarb.csproj", "{ABA71D09-3F5D-4AFE-BD5D-F9651DD5B9AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA71D09-3F5D-4AFE-BD5D-F9651DD5B9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA71D09-3F5D-4AFE-BD5D-F9651DD5B9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA71D09-3F5D-4AFE-BD5D-F9651DD5B9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA71D09-3F5D-4AFE-BD5D-F9651DD5B9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
