@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RestoManager_Jihed_BenZarb
+build_property.RootNamespace = RestoManager_Jihed_BenZarb
+build_property.ProjectDir = /home/jihed/RiderProjects/RestoManager-Jihed-BenZarb/RestoManager-Jihed-BenZarb/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/jihed/RiderProjects/RestoManager-Jihed-BenZarb/RestoManager-Jihed-BenZarb
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/jihed/RiderProjects/RestoManager-Jihed-BenZarb/RestoManager-Jihed-BenZarb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jihed/RiderProjects/RestoManager-Jihed-BenZarb/RestoManager-Jihed-BenZarb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jihed/RiderProjects/RestoManager-Jihed-BenZarb/RestoManager-Jihed-BenZarb/Views/Restaurant/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzdGF1cmFudC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jihed/RiderProjects/RestoManager-Jihed-BenZarb/RestoManager-Jihed-BenZarb/Views/Restaurant/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzdGF1cmFudC9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jihed/RiderProjects/RestoManager-Jihed-BenZarb/RestoManager-Jihed-BenZarb/Views/Restaurant/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzdGF1cmFudC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jihed/RiderProjects/RestoManager-Jihed-BenZarb/RestoManager-Jihed-BenZarb/Views/Restaurant/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzdGF1cmFudC9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jihed/RiderProjects/RestoManager-Jihed-BenZarb/RestoManager-Jihed-BenZarb/Views/Restaurant/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzdGF1cmFudC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jihed/RiderProjects/RestoManager-Jihed-BenZarb/RestoManager-Jihed-BenZarb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jihed/RiderProjects/RestoManager-Jihed-BenZarb/RestoManager-Jihed-BenZarb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jihed/RiderProjects/RestoManager-Jihed-BenZarb/RestoManager-Jihed-BenZarb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jihed/RiderProjects/RestoManager-Jihed-BenZarb/RestoManager-Jihed-BenZarb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jihed/RiderProjects/RestoManager-Jihed-BenZarb/RestoManager-Jihed-BenZarb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8oohxglz59

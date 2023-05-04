@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EfCoreDialogsState">
+    <option name="keyValueStorage">
+      <map>
+        <entry key="Common:buildConfiguration" value="Debug" />
+        <entry key="Common:e1e0a780-0179-4e85-95a6-b328f4db846c:dbContext" value="Hotellerie_Jihed_BenZarb.Models.HotellerieModel.HotellerieDbContext" />
+        <entry key="Common:noBuild" value="false" />
+        <entry key="Common:outputFolder" value="Migrations" />
+        <entry key="Common:useDefaultConnection" value="false" />
+      </map>
+    </option>
+  </component>
+</project>

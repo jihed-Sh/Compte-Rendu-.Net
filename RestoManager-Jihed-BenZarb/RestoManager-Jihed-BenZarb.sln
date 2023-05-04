@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestoManager-Jihed-BenZarb", "RestoManager-Jihed-BenZarb\RestoManager-Jihed-BenZarb.csproj", "{7428751C-F7AB-492E-957E-A582DEE89DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7428751C-F7AB-492E-957E-A582DEE89DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7428751C-F7AB-492E-957E-A582DEE89DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7428751C-F7AB-492E-957E-A582DEE89DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7428751C-F7AB-492E-957E-A582DEE89DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

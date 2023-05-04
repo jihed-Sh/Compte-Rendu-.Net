@@ -1,0 +1,52 @@
+﻿@model Hotellerie_Jihed_BenZarb.Models.HotellerieModel.Hotel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Movie</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Nom" class="control-label"></label>
+                <input asp-for="Nom" class="form-control" />
+                <span asp-validation-for="Nom" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Etoiles" class="control-label"></label>
+                <input asp-for="Etoiles" class="form-control" />
+                <span asp-validation-for="Etoiles" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ville" class="control-label"></label>
+                <input asp-for="Ville" class="form-control" />
+                <span asp-validation-for="Ville" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SiteWeb" class="control-label"></label>
+                <input asp-for="SiteWeb" class="form-control" />
+                <span asp-validation-for="SiteWeb" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tel" class="control-label"></label>
+                <input asp-for="Tel" class="form-control" />
+                <span asp-validation-for="Tel" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
